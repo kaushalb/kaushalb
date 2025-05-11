@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hey👋
+
+Technology consultant by day, passionate developer by night
+SWE @ Credera
+Website: https://itsmekaushalbommena.netlify.app
 
 <!--
 **kaushalb/kaushalb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
