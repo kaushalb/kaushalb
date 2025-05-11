@@ -1,6 +1,6 @@
 ## It's me, Kaushal👋
 
-- Technology consultant by day, passionate developer by night
+- Technology consultant by day, App developer by night
 - SWE @ Credera
 - Website: https://itsmekaushalbommena.netlify.app
 
